@@ -1,0 +1,28 @@
+# ENVIRONMENT WITH CONDA
+# conda create -n ads-ml-light python=3.11 -y
+# conda activate ads-ml-light
+# pip install -r requirements-py3.11-ads-ml-light.txt
+# pip install -e .
+#
+# ENVIRONMENT WITH PYENV
+# pyenv virtualenv 3.11 ads-ml-light
+# pyenv activate ads-ml-light
+# pip install -r requirements-py3.11-ads-ml-light.txt
+# pip install -e .
+#
+# LIGHT
+azure-ai-ml~=1.12.1
+azure-cli~=2.55.0
+ipykernel~=6.27.1
+jupyter~=1.0.0
+kaleido==0.2.1
+matplotlib~=3.8.2
+numpy~=1.26.2
+plotly~=5.18.0
+pyarrow~=14.0.1
+pylint~=3.0.3
+pyproj~=3.6.1
+python-dotenv~=1.0.0
+scikit-learn~=1.3.2
+seaborn~=0.13.0
+pandas~=2.1.3

@@ -1,0 +1,15 @@
+url: http://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_wfs_baumbestand_an
+layer: fis:s_wfs_baumbestand_an
+
+bbox:
+  west:   369097.85
+  south: 5799298.14
+  east:   416865.04
+  north: 5838236.21
+# reference for selected bounding box
+# https://fbinter.stadt-berlin.de/fb/berlin/service.jsp?id=k_blattschnitt@senstadt&type=WMS
+
+size: 10000
+outputfile: strassenbaeume.xml
+projection: EPSG:25833
+tmpdir: /tmp
