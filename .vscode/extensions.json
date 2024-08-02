@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "ms-toolsai.datawrangler",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "mechatroner.rainbow-csv",
+        "ms-vsliveshare.vsliveshare"
+    ]
+}
